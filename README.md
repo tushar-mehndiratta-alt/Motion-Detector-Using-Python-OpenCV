@@ -12,7 +12,7 @@ Install Requirments: Install Python3, install Pandas and OpenCV libraries.
 Videos can be treated as stack of pictures called frames. Here i am comparing different frames(pictures) to the first frame which should be static(No movements initially). We compare two images by comparing the intensity value of each pixels.
 
 #### Analysis of all windows
-After running the code there 4 new window will appear on screen.
+After running the code there 4 new window will appear on screen. Output of each frame is added in this repository.
 
 1. Gray Frame: In Gray frame the image is a bit blur and in grayscale we did so because, In gray pictures there is only one intensity value whereas in RGB(Red, Green and Blue) image thre are three intensity values. So it would be easy to calculate the intensity difference in grayscale.
 
