@@ -28,3 +28,14 @@ The Time_of_movements file will be stored in the folder where your code file is 
 
 #### Plotting Time Intervals
 Time Intervals will be plotted using Bokeh Plot. Bokeh is an interactive visualization library that targets modern web browsers for presentation. Here, the time intervals are collected by the csv file and then plotted using Bokeh. The green color shows that an object was under motion, time is displayed in milisecond(ms). a screenshot of output is added in this repository.
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+##### There are 2 Python(.py) Files and 1 Jupyter Notebook(.ipynb) file present in this Repository 
+###### motion_detector.py : Conatins the main code for motion detection without plotting the Bokeh Plot. 
+###### plotting.py : Run this file for Bokeh plot (Imp. motion_detector.py file is needed for this file to run)
+###### motion_detector.ipynb : This is Jupyter Notebook File code.
