@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 # Coded by Tushar Mehndiratta(Invisible786)
-# https://github.com/Invisible786
+# https://github.com/tushar-mehndiratta-alt/
 
 import cv2, time, pandas
 from datetime import datetime
